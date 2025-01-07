@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace CornelVerster\LaravelPaystack\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelPaystackCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-paystack';
 
     public $description = 'My command';
 
