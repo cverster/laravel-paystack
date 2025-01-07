@@ -2,9 +2,9 @@
 
 namespace CornelVerster\LaravelPaystack\Tests;
 
+use CornelVerster\LaravelPaystack\LaravelPaystackServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use CornelVerster\LaravelPaystack\LaravelPaystackServiceProvider;
 
 class TestCase extends Orchestra
 {

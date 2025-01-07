@@ -2,9 +2,9 @@
 
 namespace CornelVerster\LaravelPaystack;
 
+use CornelVerster\LaravelPaystack\Commands\LaravelPaystackCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use CornelVerster\LaravelPaystack\Commands\LaravelPaystackCommand;
 
 class LaravelPaystackServiceProvider extends PackageServiceProvider
 {
